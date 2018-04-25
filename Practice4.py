@@ -1,7 +1,7 @@
 # Прямоугольная площадка (пример: комната) (свойства: две стороны)
 # Нужно высчитать: площадь, периметр.
 
-class Room():
+class Room:
     """This class describes rectangular room."""
 
     def __init__(self, length=0.0, width=0.0):
